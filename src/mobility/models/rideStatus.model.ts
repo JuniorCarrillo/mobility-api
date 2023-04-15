@@ -1,0 +1,7 @@
+export enum RideStatus {
+  REQUEST = 'REQUEST',
+  EXPECTING = 'EXPECTING',
+  ON_ROUTE = 'ON_ROUTE',
+  COMPLETE = 'COMPLETE',
+  CANCELLED = 'CANCELLED',
+}
